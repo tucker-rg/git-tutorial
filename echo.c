@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* Tucker Rae-Grant */
+/* Tucker Rae-Grant tnarG-eaR rekcuT */
 /* Last updated: 9/30/24 */
 
 #include <stdio.h>
